@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # XAML Transform3D Light bug sample
+=======
+# XAML Transform3D Light sub sample
+>>>>>>> master
 
 Requies 16299 SDK.
 Tested on Fall Creators Update
